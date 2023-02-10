@@ -1,4 +1,4 @@
-- Hi, I’m @neitvarr
+- Hi, I’m Neitvarr
 - I’m interested in game developing.
 
 <!---
