@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @neitvarr
-- 👀 I’m interested in game delopeving.
-- 🌱 I’m currently learning Unreal Engine.
+- Hi, I’m @neitvarr
+- I’m interested in game developing.
 
 <!---
 neitvarr/neitvarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
